@@ -17,6 +17,13 @@
       "subtitle": "Yabai Sailor",
       "description": "Help to speedup yabai functions.",
       "mode": "no-view"
+    },
+    {
+      "name": "restart",
+      "title": "Yabai Restart",
+      "subtitle": "restart yabai",
+      "description": "restart yabai service",
+      "mode": "no-view"
     }
   ],
   "dependencies": {
